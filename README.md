@@ -1,4 +1,4 @@
-# Data-Analysis-Dashboard
+# Wave Shoes Sales Data-Analysis-Dashboard using Lookers Studio
 This project showcases dynamic and interactive sales dashboards that visualize key metrics and trends for Wave Shoes. These dashboards are designed to provide insights into the performance of sales, customer engagement, and product trends, all in an easy-to-understand format.
 
 Features:
