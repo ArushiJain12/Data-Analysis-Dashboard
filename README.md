@@ -16,5 +16,19 @@ Technologies Used:
 Looker Studio (formerly Google Data Studio) for data visualization and dashboard creation.
 
 Google Sheets for data management and integration.
-## DataSet Used:
+## Dataset Used:
 - <a href = "https://github.com/ArushiJain12/Data-Analysis-Dashboard/blob/main/Wave%20Shoes%20Store%20_%20Sales%20Data%20.xlsx">Dataset</a>
+
+## Questions (KPIs)
+Which state has the highest profit?
+What is the sales performance across different states?
+How do sales vary geographically across regions (Casual, Formal, Semi-Casual categories)?
+Which product category contributes the most to sales (Single Monk, Sneakers, etc.)?
+What percentage of total sales does each product type contribute?
+What is the distribution of quantity sold by order type (Casual, Formal, Semi-Casual)?
+Which order type has the highest sales quantity?
+What are the monthly sales trends?
+During which months do sales peak, and when do they dip?
+What are the seasonal variations in sales?
+
+-Dashboard Interactions <a href= 
