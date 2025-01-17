@@ -16,3 +16,5 @@ Technologies Used:
 Looker Studio (formerly Google Data Studio) for data visualization and dashboard creation.
 
 Google Sheets for data management and integration.
+## DataSet Used:
+- <a href = "https://github.com/ArushiJain12/Data-Analysis-Dashboard/blob/main/Wave%20Shoes%20Store%20_%20Sales%20Data%20.xlsx">Dataset</a>
